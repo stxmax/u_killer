@@ -115,7 +115,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For security-related issues, please contact: security@example.com
+For security-related issues, please contact: Rocky_sg@163.com
 
 ---
 
